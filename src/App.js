@@ -1,5 +1,6 @@
 import './App.css';
-import SliderApp from './projects/09-slider/SliderApp';
+import HiddenSearchBarApp from './projects/10-hidden-search-bar/HiddenSearchBarApp';
+// import SliderApp from './projects/09-slider/SliderApp';
 
 // import LightAndDarkMode from './projects/07-light-and-dark-mode/LightAndDarkMode';
 // import SlideToUnlock from './projects/08--slide-to-unlock/SlideToUnlock'
@@ -22,7 +23,8 @@ import SliderApp from './projects/09-slider/SliderApp';
   {/* <TemperatureControllerApp/>  */}
   {/* <LightAndDarkMode/> */}
   {/* <SlideToUnlock/> */}
-  <SliderApp/>
+  {/* <SliderApp/> */}
+  <HiddenSearchBarApp/>
     </div>
   );
 }

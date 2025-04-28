@@ -9,6 +9,7 @@ const SliderComponent = ({ setValue, handleInput, bgColor, textColor }) => {
     background: "lightgray",
     Cursor: "pointer",
     opacity: "0.7",
+    transition: "all 0.4s ease"
   };
 
   return (
